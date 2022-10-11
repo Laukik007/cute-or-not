@@ -9,7 +9,7 @@ function AddDog() {
         <Grid item xs={2}></Grid>
         <Grid item xs={8} style={{ marginTop: "2rem" }}>
           <Paper>
-            <Typography>Add a Doggo</Typography>
+            <Typography variant="h5">Add a Doggo</Typography>
           </Paper>
         </Grid>
         <Grid item xs={2}></Grid>
